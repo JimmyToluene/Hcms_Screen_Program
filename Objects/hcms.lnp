@@ -1,0 +1,6 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\hcms200x.obj",
+".\Objects\font.obj" 
+TO ".\Objects\hcms" 
+PRINT(".\Listings\hcms.m51") RAMSIZE(256) 
